@@ -3,8 +3,8 @@ using namespace std;
 
 int main() { 
 
-	cout << "Merhaba Dünya!";
-	
+	cout << "Merhaba Dünya!" << endl;
+	cout << "Nasýlsýn?" << endl;
 	
 	return 0;
 }
